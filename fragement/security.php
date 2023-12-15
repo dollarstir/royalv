@@ -10,7 +10,7 @@ function topbar($title){
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Vault</title>
+      <title>'.$title.'</title>
       <link rel="icon" type="image/png" href="vv/assets/images/favicon.jpg" sizes="16x16">
       <!-- bootstrap 4  -->
       <link rel="stylesheet" href="vv/assets/css/vendor/bootstrap.min.css">
