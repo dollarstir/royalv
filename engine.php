@@ -30,6 +30,13 @@ $router = new Router([
     ),
 
     new Route(
+        '/s-services',
+        function ($context) {
+            return Viewer::view('vv/services.phtml', $context);
+        }
+    ),
+
+    new Route(
         '/about',
         function ($context) {
             return Viewer::view('front/about.php', $context);
