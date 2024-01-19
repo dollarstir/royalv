@@ -113,7 +113,7 @@ function footerbar(){
       <div class="container">
         <div class="row">
           <div class="col-md-6 text-md-left text-center">
-            <p>© '.date('Y').' <a href="vv/index-3.html" class="base--color"> Royal Vault Security &  SHipping Express</a>. All rights reserved</p>
+            <p>© '.date('Y').' <a href="home" class="base--color"> Royal Vault Security &  SHipping Express</a>. All rights reserved</p>
           </div>
           <div class="col-md-6">
             <ul class="social-link-list d-flex flex-wrap justify-content-md-end justify-content-center">
